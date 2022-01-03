@@ -1,2 +1,2 @@
 # Simple-javascript-object-moving
-Simple javascript object moving game (test)
+Simple javascript object moving
